@@ -1,2 +1,2 @@
-# JS-Music-roject
+# JS-Music-Project
  
